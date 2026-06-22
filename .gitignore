@@ -1,0 +1,4 @@
+# Local agent/tooling installs
+.agents/
+.tools/
+skills-lock.json

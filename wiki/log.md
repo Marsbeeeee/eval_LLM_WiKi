@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-22] ingest | feishu my_library evaluation corpus
+
+- Source: `raw/feishu-my-library/2026-06-22/tree.json`, `raw/feishu-my-library/2026-06-22/manifest.json`, `raw/feishu-my-library/2026-06-22/docs/`
+- Updated: `wiki/evaluations/feishu-my-library-ingest-20260622.md`, `wiki/concepts/benchmark-foundations.md`, `wiki/evaluations/judge-pipeline-evolution.md`, `wiki/badcases/customer-service-judge-badcases.md`, `wiki/prompts/prompt-compliance-optimizer-workflow.md`, `wiki/index.md`, `wiki/log.md`
+- Summary: 归档飞书 `我的文档库` 57 个节点，沉淀 benchmark 方法论、judge pipeline 演进、Customer Service judge badcase 分类和 Badcase Agent/Skill 线索。
+- Needs confirmation: 13 个电子表格节点尚未抽取内容；飞书图片和附件尚未本地化；标题日期和部分 case 归因仍需人工确认。
+
 ## [2026-06-22] ingest | 0617 key guide & judge 自动化尝试
 
 - Source: `raw/reports/[0617] key guide & judge 自动化尝试.docx`, `raw/reports/key_guide_results.docx`, `raw/reports/key_guide_judge_report.docx`

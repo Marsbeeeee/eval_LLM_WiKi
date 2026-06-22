@@ -1,0 +1,515 @@
+﻿[
+    {
+        "depth":  0,
+        "title":  "Daily Report",
+        "path":  "Daily Report",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "GjRywrzfXitYLPkeVzKcF9KQnSd",
+        "obj_token":  "ZHmfdZyIRomR6kxuk4dcRYNYnec"
+    },
+    {
+        "depth":  0,
+        "title":  "Laep 测试链接",
+        "path":  "Laep 测试链接",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "WAqAwyfp6ivjnskZnIGcNgbJnjd",
+        "obj_token":  "NitXdGODSoBTXjxNQEMcr6WXnuh"
+    },
+    {
+        "depth":  0,
+        "title":  "Benchmark 基础知识",
+        "path":  "Benchmark 基础知识",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "PpIUweyg4iDdTBkBc96cEX44n6g",
+        "obj_token":  "PnezdcMLno0OVnxIF0mctlhrn0g"
+    },
+    {
+        "depth":  0,
+        "title":  "[260630]Bankaya-TestResult 副本",
+        "path":  "[260630]Bankaya-TestResult 副本",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "FWCwwLuGSiQUwpkHe3qcUATNn3b",
+        "obj_token":  "P2cEsY9CrhcYkOtl6VacKRD3nWb"
+    },
+    {
+        "depth":  0,
+        "title":  "[0507]Judge模型初步对比（qwen 3.6 v.s. deepseek 3.2）- 副本",
+        "path":  "[0507]Judge模型初步对比（qwen 3.6 v.s. deepseek 3.2）- 副本",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "SE6HwuuCeiLk1qkZFGKc4FKhn6g",
+        "obj_token":  "HkAudoSlZoP5RhxxN6Oc5GX1nCd"
+    },
+    {
+        "depth":  0,
+        "title":  "[0509][eval]mandiri_pipeline qwen3.6plus v.s. gpt5.1 v.s. gemini3.1pro-preview v.s. human-副本",
+        "path":  "[0509][eval]mandiri_pipeline qwen3.6plus v.s. gpt5.1 v.s. gemini3.1pro-preview v.s. human-副本",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "LeiiwqpnLiCmfPkkTjnc8o8mnBb",
+        "obj_token":  "RiB2deYbuodJCFxDjKjcPO1Gnvf"
+    },
+    {
+        "depth":  0,
+        "title":  "[0511]Agent动态评估探索-FC-Continuer 衔接词评估报告 - 副本",
+        "path":  "[0511]Agent动态评估探索-FC-Continuer 衔接词评估报告 - 副本",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "WQfpwBZhDid3s0k8bs1c4Zujnug",
+        "obj_token":  "YcsLdZPZroMtAwxwtricTgetnEh"
+    },
+    {
+        "depth":  0,
+        "title":  "[0511]codex拆解fc-continuer并评估工作流",
+        "path":  "[0511]codex拆解fc-continuer并评估工作流",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "QWW6wcegZik2DLk85l2cex3Kn1g",
+        "obj_token":  "KzaVdqIqaoqdAAx0ggfcFvCBnRc"
+    },
+    {
+        "depth":  0,
+        "title":  "[20260512]Pipline业务推动时间线",
+        "path":  "[20260512]Pipline业务推动时间线",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "MdoDwFqZKiHwZSkeq6icIxJqnBP",
+        "obj_token":  "GMDCdvRwYo8ZpJxD7V5c8F5gnW7"
+    },
+    {
+        "depth":  0,
+        "title":  "[0512]ai agent自动化生产测试集尝试",
+        "path":  "[0512]ai agent自动化生产测试集尝试",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "Eyi2wrLnxiYliEkStDlcpukkn7R",
+        "obj_token":  "CnCcdfbK2oxUnXx28NqctvmhnSg"
+    },
+    {
+        "depth":  0,
+        "title":  "[AI][LLM][Evaluation]自动化评估探索进度汇报 副本",
+        "path":  "[AI][LLM][Evaluation]自动化评估探索进度汇报 副本",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "RzCawgBd1iVl9SkteFUcsEi8nuO",
+        "obj_token":  "JOmjdyu76otgOGxq5BHcZ2fenBd"
+    },
+    {
+        "depth":  0,
+        "title":  "[0513][eval]mandiri_pipeline_3_judge_model_vs._human_with_new_key_guide_3_grade ",
+        "path":  "[0513][eval]mandiri_pipeline_3_judge_model_vs._human_with_new_key_guide_3_grade ",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "Sxsmw0DMeiYNPUkjgFvcVQnDn6d",
+        "obj_token":  "JqxIdC7vsoyINIxDqoQcHHNSnNw"
+    },
+    {
+        "depth":  0,
+        "title":  "智能纪要：AI Coding SOP Training 2026年5月13日 副本",
+        "path":  "智能纪要：AI Coding SOP Training 2026年5月13日 副本",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "CCIFwCh5hiLUuFkVVDEch8ifnBh",
+        "obj_token":  "G1ModalSFo1Suexk8DXczoUfndd"
+    },
+    {
+        "depth":  0,
+        "title":  "LLM as Judge Pipeline项目进展汇总（2026年4月29日-5月15日）",
+        "path":  "LLM as Judge Pipeline项目进展汇总（2026年4月29日-5月15日）",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "GP84w8NNSi7j7ykln28clELUnmg",
+        "obj_token":  "OWMbdykeVoGIj5xXe1HcJ9QDnld"
+    },
+    {
+        "depth":  0,
+        "title":  "[0519/0521]Customer Service judge 模型 badcase 记录分析",
+        "path":  "[0519/0521]Customer Service judge 模型 badcase 记录分析",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "Erxswj8i6iFWc4kL6cxcyeHbnBg",
+        "obj_token":  "DSYsds1uvoNrVtx6GbpcfNUxnGN"
+    },
+    {
+        "depth":  0,
+        "title":  "[0522]自动生成 remark 测试记录文档",
+        "path":  "[0522]自动生成 remark 测试记录文档",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "LNrTwXFovi5HpQk9PBTccZNinwb",
+        "obj_token":  "Cl5idL9lJoEyMrxkGUgcSjuNngg"
+    },
+    {
+        "depth":  0,
+        "title":  "[0528] customer service 全量 pipline case 记录",
+        "path":  "[0528] customer service 全量 pipline case 记录",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "PenJw1nssitdLrkd5MucbwdlnUf",
+        "obj_token":  "GT1adhpduonfI6x3YEwcMalDndh"
+    },
+    {
+        "depth":  0,
+        "title":  "[0529] customer service 测试集 key guide 微调后 badcase 记录",
+        "path":  "[0529] customer service 测试集 key guide 微调后 badcase 记录",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "TFvgwP1EPiaGvck0aW2cVi7Inoa",
+        "obj_token":  "DZ2QdckxJokyftxTyTrctlzkn5I"
+    },
+    {
+        "depth":  0,
+        "title":  "Badcase Agent Readme",
+        "path":  "Badcase Agent Readme",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "BjfmwwyoIiTVJykfyVLcZCCdnfh",
+        "obj_token":  "Dcjwdhl4towT0Nx2Yyncwa9wnBb"
+    },
+    {
+        "depth":  0,
+        "title":  "Badcase Agent SKILL Readme",
+        "path":  "Badcase Agent SKILL Readme",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "Rntswb5fBi8pG5kEzrlcPoCQnEh",
+        "obj_token":  "AxAPdhjSdoVonexYKnIcCFnLnUc"
+    },
+    {
+        "depth":  0,
+        "title":  "[AI][LLM][Evaluation][Explorations]LLM Badcase 根因分析 agent",
+        "path":  "[AI][LLM][Evaluation][Explorations]LLM Badcase 根因分析 agent",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "Hhbewn3voi1DcrkwaT8cBMIzn3c",
+        "obj_token":  "GCjgdNIr9oj00Uxp1zncILAXnBh"
+    },
+    {
+        "depth":  0,
+        "title":  "[0605]LLM badcase 根因分析 agent 测试",
+        "path":  "[0605]LLM badcase 根因分析 agent 测试",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "XYdFwydRwiK8FrkIe1XcEDXOn2x",
+        "obj_token":  "DD5kdgYL0oKlOCx8bCZcAgIgnre"
+    },
+    {
+        "depth":  0,
+        "title":  "[0611]LLM badcase 根因分析 skill 推进报告",
+        "path":  "[0611]LLM badcase 根因分析 skill 推进报告",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "UIDvwu596iFJSjkx7IYcIFQnnPh",
+        "obj_token":  "CAhGdTIHXoxn2xxgMm3cr2Bfnbc"
+    },
+    {
+        "depth":  0,
+        "title":  "[0615]测试 voyager-1.6-gemma4-26b-a4b-it 做高考数学正确率",
+        "path":  "[0615]测试 voyager-1.6-gemma4-26b-a4b-it 做高考数学正确率",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "H9FTwyu1QiATXtkznLbcdqNgnBc",
+        "obj_token":  "NoDqdQVd3of0QFxWJgHcjImOnBc"
+    },
+    {
+        "depth":  0,
+        "title":  "[0616] eval llm wiki README",
+        "path":  "[0616] eval llm wiki README",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "Lp8CwJqqeiQ60QkTkyIcht3anLh",
+        "obj_token":  "G2UId0tPRoWGD1x6R2JcF80DnWf"
+    },
+    {
+        "depth":  0,
+        "title":  "[0617] key guide \u0026 judge 自动化尝试",
+        "path":  "[0617] key guide \u0026 judge 自动化尝试",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "ASjPwHN1eiJHVbkR7C1cU0EknUf",
+        "obj_token":  "WJN4dZuXMoSzYCx3JKacVKHknrh"
+    },
+    {
+        "depth":  0,
+        "title":  "[0617] Codex pro 20x plan usage tracker \u0026 analysis",
+        "path":  "[0617] Codex pro 20x plan usage tracker \u0026 analysis",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "IL5HwFpPZiiJ1jkTSYDc2rI9nyb",
+        "obj_token":  "Gb8FdIRypobHxSxtNmXc1rtEnhb"
+    },
+    {
+        "depth":  0,
+        "title":  "[0618] Codex usage tracker 使用指南",
+        "path":  "[0618] Codex usage tracker 使用指南",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "T4upw8DW7iVdCpkNLHMcmP3fnJb",
+        "obj_token":  "LtYXd2HlPoQNw1x4e1FcImelnsg"
+    },
+    {
+        "depth":  0,
+        "title":  "知识问答",
+        "path":  "知识问答",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "X9JkwVKZYi3iEHkUjWfccZfnnde",
+        "obj_token":  "OAq5ddQz5o0ZGqxbBdJcx4THn9f"
+    },
+    {
+        "depth":  1,
+        "title":  "跨语言 Judge Consistency / Multilingual Evaluation Reliability",
+        "path":  "Benchmark 基础知识/跨语言 Judge Consistency / Multilingual Evaluation Reliability",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "WcC6w7eJDi4ugikAijFcirDLnFf",
+        "obj_token":  "TThGdqMTMokfj9xvuAnc0uoynqc"
+    },
+    {
+        "depth":  1,
+        "title":  "可借鉴benchmark信息收集",
+        "path":  "Benchmark 基础知识/可借鉴benchmark信息收集",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "Nzbtw4hxdie0x5knY4fcakkMnog",
+        "obj_token":  "Pu3zdqwvhouQV9x8PBhcGCsnnah"
+    },
+    {
+        "depth":  1,
+        "title":  "judge_compare_2_779_625_no_lang_20260430102102_9 副本",
+        "path":  "[0507]Judge模型初步对比（qwen 3.6 v.s. deepseek 3.2）- 副本/judge_compare_2_779_625_no_lang_20260430102102_9 副本",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "QsEJwVHXRiqkYAkig1GcQVFDnWf",
+        "obj_token":  "N8M4sBlKYhEsdVt5NWOcO1alnJf"
+    },
+    {
+        "depth":  1,
+        "title":  "Turn aware测试集 Judge 模型Diff对比 副本",
+        "path":  "[0507]Judge模型初步对比（qwen 3.6 v.s. deepseek 3.2）- 副本/Turn aware测试集 Judge 模型Diff对比 副本",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "LkoBwzA5Xi0sBpkM7IScaAAenig",
+        "obj_token":  "FRLvdRY64ooRdTx2DBKcWyaRnDg"
+    },
+    {
+        "depth":  1,
+        "title":  "model_metrics_by_model_with_node",
+        "path":  "[0509][eval]mandiri_pipeline qwen3.6plus v.s. gpt5.1 v.s. gemini3.1pro-preview v.s. human-副本/model_metrics_by_model_with_node",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "QDsvwdaoAi0tAZkKt3qcSjfyn6d",
+        "obj_token":  "M0o8sNKqBhOoIvtW1sFcervinQf"
+    },
+    {
+        "depth":  1,
+        "title":  "eval_fc_continuer_params_50_781_658_no_lang_20260507073427_10_compare_eval_long 副本",
+        "path":  "[0511]Agent动态评估探索-FC-Continuer 衔接词评估报告 - 副本/eval_fc_continuer_params_50_781_658_no_lang_20260507073427_10_compare_eval_long 副本",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "YqePwiyn5iyjREkQoeAcuTtynmd",
+        "obj_token":  "UUvJsfKHbhViN5tJkDgcWdxFn4g"
+    },
+    {
+        "depth":  1,
+        "title":  "score_compare_matched_rows",
+        "path":  "[0511]codex拆解fc-continuer并评估工作流/score_compare_matched_rows",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "JD8vwpUpHi1LrekmEqyckC9Rnsd",
+        "obj_token":  "TCqksBfQ0hxOzatDxnjcQjlWnyh"
+    },
+    {
+        "depth":  1,
+        "title":  "dialog_eval_table_with_remarks",
+        "path":  "[0511]codex拆解fc-continuer并评估工作流/dialog_eval_table_with_remarks",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "GxJQw4y28iqze8kjE42cgMS8njf",
+        "obj_token":  "OA7OsajcNhkB5BtQsHXca8UcnAc"
+    },
+    {
+        "depth":  1,
+        "title":  "[规范协议]动态生成完整conversation -- Codex",
+        "path":  "[0512]ai agent自动化生产测试集尝试/[规范协议]动态生成完整conversation -- Codex",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "N3WBwnTZaiqln2kK3aacFWBdn9e",
+        "obj_token":  "H23JdCO4OoELJbxW8G7cLhxAnSg"
+    },
+    {
+        "depth":  1,
+        "title":  "[规范协议]用codex作为ai agent批量化生成测试集",
+        "path":  "[0512]ai agent自动化生产测试集尝试/[规范协议]用codex作为ai agent批量化生成测试集",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "FX8Hws637ixYyDkEdFKcrk8AnJf",
+        "obj_token":  "Jk1Cd6FtToVdLzxY0kacWNLjn1c"
+    },
+    {
+        "depth":  1,
+        "title":  "eval_mandiri_3_judge_ordered",
+        "path":  "[0513][eval]mandiri_pipeline_3_judge_model_vs._human_with_new_key_guide_3_grade /eval_mandiri_3_judge_ordered",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "NyO3wmjTVi2zUIkvET2crtchnfg",
+        "obj_token":  "CqM8sPa53hf43jt1odccgrx6nld"
+    },
+    {
+        "depth":  1,
+        "title":  "[20250520]Judge模型能力对比 - Customer Service测试集",
+        "path":  "[0519/0521]Customer Service judge 模型 badcase 记录分析/[20250520]Judge模型能力对比 - Customer Service测试集",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "UQVawFXkbi4ll2kCiFjcV3IYnjj",
+        "obj_token":  "UK8zstWn0hwyGItCEegcBXFpntd"
+    },
+    {
+        "depth":  1,
+        "title":  "[20260521]Customer-Service—Judge-V2",
+        "path":  "[0519/0521]Customer Service judge 模型 badcase 记录分析/[20260521]Customer-Service—Judge-V2",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "EBuDwaOD9iK7wYkkJYicddGXnqq",
+        "obj_token":  "VcmesLjeAhCZkntKfL6crcjNnTh"
+    },
+    {
+        "depth":  1,
+        "title":  "Customer_service_all_data_LLM_Judge",
+        "path":  "[0528] customer service 全量 pipline case 记录/Customer_service_all_data_LLM_Judge",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "AgITwnyK1iABB3kkAFxcbLLMnZf",
+        "obj_token":  "VLxusF8eshjFc9tp7wocyLoknLb"
+    },
+    {
+        "depth":  1,
+        "title":  "custoemr_service_auto_remark_pipline_all",
+        "path":  "[0528] customer service 全量 pipline case 记录/custoemr_service_auto_remark_pipline_all",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "P56mwdXthiQXWgk2ICBcNwOMneh",
+        "obj_token":  "DuW6sDXyHhV42OtxVdvcJ751n6f"
+    },
+    {
+        "depth":  1,
+        "title":  "customer_service_test_guide_all",
+        "path":  "[0529] customer service 测试集 key guide 微调后 badcase 记录/customer_service_test_guide_all",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "HGP2w8gcIi4y5EkiNcncvjudnpc",
+        "obj_token":  "IQ2yswFf3htz2qtuOB4cH2xjnEf"
+    },
+    {
+        "depth":  1,
+        "title":  "[0616]badcase 根因分析测试案例",
+        "path":  "[0611]LLM badcase 根因分析 skill 推进报告/[0616]badcase 根因分析测试案例",
+        "has_child":  true,
+        "obj_type":  "docx",
+        "node_token":  "XAHewDrpdiUnabkyFPjcQEbfnLf",
+        "obj_token":  "MXBbdqNJjoJ2AXx2p4ccfW0gnOb"
+    },
+    {
+        "depth":  1,
+        "title":  "key_guide_results",
+        "path":  "[0617] key guide \u0026 judge 自动化尝试/key_guide_results",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "N7PSwY9LTiKgqLkHXA9cXxAannb",
+        "obj_token":  "XlqPdCbjooX1xixIRb1cr7UgnVc"
+    },
+    {
+        "depth":  1,
+        "title":  "key_guide_prompt",
+        "path":  "[0617] key guide \u0026 judge 自动化尝试/key_guide_prompt",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "MvU7wcCwViOFR5kAjn0cOFGpnvd",
+        "obj_token":  "W2gsdi5Fdo36B3xGd5UcLWzjnBh"
+    },
+    {
+        "depth":  1,
+        "title":  "key_guide_judge_report",
+        "path":  "[0617] key guide \u0026 judge 自动化尝试/key_guide_judge_report",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "OK9TwMJl0iEvxDk020Mcw4nNn8l",
+        "obj_token":  "Ll4EdpJ05oxuxRxzRUIctGZTnIb"
+    },
+    {
+        "depth":  1,
+        "title":  "codex-usage-insights-calls",
+        "path":  "[0617] Codex pro 20x plan usage tracker \u0026 analysis/codex-usage-insights-calls",
+        "has_child":  false,
+        "obj_type":  "sheet",
+        "node_token":  "PE54woEu6iWHZkkSCnBctPYYnFf",
+        "obj_token":  "HCUisu61chtaEtty01QcB5rbnmd"
+    },
+    {
+        "depth":  1,
+        "title":  "Codex 用量任务归因报告",
+        "path":  "[0617] Codex pro 20x plan usage tracker \u0026 analysis/Codex 用量任务归因报告",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "GRTewhKfLiUrALksZLqc1KC5nrh",
+        "obj_token":  "KiaFdiXByozfKXxrwvgc0AdonLe"
+    },
+    {
+        "depth":  1,
+        "title":  "Codex 用量多人汇总报告",
+        "path":  "[0617] Codex pro 20x plan usage tracker \u0026 analysis/Codex 用量多人汇总报告",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "QmbZw4NIQifKeek9ncmcsSu6nec",
+        "obj_token":  "Mi05dGIUSoS24kxSt8NcQACrnCc"
+    },
+    {
+        "depth":  2,
+        "title":  "XNLI benchmark",
+        "path":  "Benchmark 基础知识/可借鉴benchmark信息收集/XNLI benchmark",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "BbqJwppGFiancXkMMEacecF0nLe",
+        "obj_token":  "SndRdy03votjzmxyxmccUj2gnhh"
+    },
+    {
+        "depth":  2,
+        "title":  "XQuAD benchmark",
+        "path":  "Benchmark 基础知识/可借鉴benchmark信息收集/XQuAD benchmark",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "ABLswhaR7iszqYk6QAAceFpZnZf",
+        "obj_token":  "GlaydD1gQo06pTxqcfTceCV5n91"
+    },
+    {
+        "depth":  2,
+        "title":  "XNLI和XQuAD真实例子",
+        "path":  "Benchmark 基础知识/可借鉴benchmark信息收集/XNLI和XQuAD真实例子",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "QfoGwXHnbiDCbKky9MQcGoOhnMb",
+        "obj_token":  "W4madkjTooBzsBxwBJBcIKLin9f"
+    },
+    {
+        "depth":  2,
+        "title":  "batch_review",
+        "path":  "[0611]LLM badcase 根因分析 skill 推进报告/[0616]badcase 根因分析测试案例/batch_review",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "TzE6w6tDni6cB3kcecUcj1eHnff",
+        "obj_token":  "JKxidqWuKowNbnxw8hLcL5sunHh"
+    },
+    {
+        "depth":  2,
+        "title":  "batch_apply_conclusion",
+        "path":  "[0611]LLM badcase 根因分析 skill 推进报告/[0616]badcase 根因分析测试案例/batch_apply_conclusion",
+        "has_child":  false,
+        "obj_type":  "docx",
+        "node_token":  "HoYtwwfJZi0iTvk7KV0cDoajnIf",
+        "obj_token":  "AdZSd15sQo6L9yxWBRocxyvXn6V"
+    }
+]

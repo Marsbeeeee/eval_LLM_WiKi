@@ -59,10 +59,16 @@ logprob 只能作为诊断辅助信号，不能替代 updated conversation 和 r
 ## 相关页面
 
 - [0611 LLM badcase 根因分析 skill 推进报告](../evaluations/0611-llm-badcase-root-cause-skill-progress.md)
+- [Feishu My Library Ingest 2026-06-22](../evaluations/feishu-my-library-ingest-20260622.md)
 - [Strict System Prompt Compliance Badcase](../badcases/strict-system-prompt-compliance.md)
 - [Key Guide + Judge 自动化评测](../concepts/key-guide-judge-automation.md)
 - [0617 Key Guide & Judge 自动化尝试](../evaluations/0617-key-guide-judge-automation.md)
 
+## 新增来源线索
+
+飞书 `我的文档库` 中还包含 `Badcase Agent Readme`、`Badcase Agent SKILL Readme`、`[AI][LLM][Evaluation][Explorations]LLM Badcase 根因分析 agent`、`[0605]LLM badcase 根因分析 agent 测试`、`[0611]LLM badcase 根因分析 skill 推进报告` 及其子文档。这些材料与本页的“评估 -> 分析 -> 实验 -> 结论”链路同属一条知识线，已在本次归档中保留原文。来源：`raw/feishu-my-library/2026-06-22/tree.json`、`raw/feishu-my-library/2026-06-22/docs/_0611_LLM badcase 根因分析 skill 推进报告.md`
+
 ## 待确认
 
 - 需要后续补充具体 batch review、updated conversation、residual scan 和 conclusion artifact，才能把本页方法论进一步映射到单个 case 的证据链。
+- 需要继续抽取 `Badcase Agent Readme` 和 `Badcase Agent SKILL Readme` 的实现细节，判断是否应合并进本页或拆为独立 agent workflow 页面。
