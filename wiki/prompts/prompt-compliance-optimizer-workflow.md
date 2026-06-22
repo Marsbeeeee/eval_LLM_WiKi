@@ -60,6 +60,8 @@ logprob 只能作为诊断辅助信号，不能替代 updated conversation 和 r
 
 - [0611 LLM badcase 根因分析 skill 推进报告](../evaluations/0611-llm-badcase-root-cause-skill-progress.md)
 - [Strict System Prompt Compliance Badcase](../badcases/strict-system-prompt-compliance.md)
+- [Key Guide + Judge 自动化评测](../concepts/key-guide-judge-automation.md)
+- [0617 Key Guide & Judge 自动化尝试](../evaluations/0617-key-guide-judge-automation.md)
 
 ## 待确认
 
