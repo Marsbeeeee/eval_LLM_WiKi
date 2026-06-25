@@ -10,7 +10,7 @@
 - Dataset: `626`
 - Task: Customer Service judge / pipeline badcase analysis
 - Category: judge reliability, key guide quality, prompt ambiguity, turn-aware evaluation
-- Severity: 待确认
+- Severity: Medium（按文档呈现，主要影响评测可信度和 badcase 归因，而非直接证明线上模型严重故障）
 
 ## Badcase 分类
 
@@ -69,4 +69,8 @@
 
 - 文档中的图片附件尚未下载为本地文件，当前仅保留 Markdown 中的飞书图片链接。
 - `Customer_service_all_data_LLM_Judge`、`custoemr_service_auto_remark_pipline_all` 等电子表格内容尚未抽取。
-- 需要人工确认哪些 case 最终应算模型 badcase，哪些应转为 prompt / remark / key guide 质量问题。
+
+## 维护口径
+
+- 对该页已有 case，优先按原文记录归因：文档标为 system prompt 歧义、remark 不清晰、key guide 注意力过剩或 turn-aware 标准不确定的，不默认记为模型能力 badcase。
+- 后续只有当原文未明确说明归因，或不同文档对同一 case 给出冲突判断时，才放入待确认。

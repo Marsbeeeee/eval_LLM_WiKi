@@ -9,7 +9,7 @@
 - Source: `raw/reports/[0617] key guide & judge 自动化尝试.docx`
 - Supporting source: `raw/reports/key_guide_results.docx`
 - Supporting source: `raw/reports/key_guide_judge_report.docx`
-- Date: 2026-06-17（由文件标题 `[0617]` 推断，待确认）
+- Date: 2026-06-17（按文件标题 `[0617]` 采用）
 - Input: `/mnt/zfs02/sullivan.guo/data/0615/test_qc_en.jsonl`
 - Key Guide: `/mnt/zfs02/sullivan.guo/data/0615/key_guide_results_unescaped.md`
 - Prompt: `/mnt/zfs02/sullivan.guo/workspace/local_qc/key_guide_prompt.txt`
@@ -74,5 +74,4 @@
 
 ## 待确认
 
-- 文件标题中的 `0617` 是否就是报告日期 `2026-06-17`。
 - 本仓库只归档了 docx 报告，尚未归档原始 `test_qc_en.jsonl`、`key_guide_results_unescaped.md` 和 `key_guide_prompt.txt`。

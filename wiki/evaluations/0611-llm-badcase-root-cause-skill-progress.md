@@ -7,7 +7,7 @@
 ## 基本信息
 
 - Source: `raw/reports/[0611]LLM badcase 根因分析 skill 推进报告.docx`
-- Date: 2026-06-11（由文件标题 `[0611]` 推断，待确认）
+- Date: 2026-06-11（按文件标题 `[0611]` 采用）
 - Task: system prompt compliance badcase 分析与修复 workflow 推进
 - Related skill: `prompt-compliance-optimizer`
 - Category: prompt compliance / badcase root cause analysis / workflow validation
@@ -33,5 +33,4 @@
 
 ## 待确认
 
-- 文件标题中的 `0611` 是否就是报告日期 `2026-06-11`。
 - 报告中提到的具体 scan/review/apply/conclusion artifact 路径未随本材料提供，后续若补充原始 JSON 或输出文件，应继续 ingest 并互链。
